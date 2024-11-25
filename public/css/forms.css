@@ -1,0 +1,37 @@
+body{
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    background-color: #212222;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.form
+/* .form >*{
+    margin-bottom: 5px;
+} */
+
+
+
+.button{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 13px;
+}
+.form a{
+    width: 11em;
+}
+
+input{
+    height: 40px;
+    padding: 10px;
+}
+
+button{
+    width: 11em;
+}
